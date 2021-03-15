@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>IPL Score Predictor</title>
+        <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.png') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+        <script src="https://kit.fontawesome.com/5f3f547070.js" crossorigin="anonymous"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+
+    </head>
+
+    <body style="background-image:url('static/back4.jpg');background-size:cover;">
+
+        <!-- Website Title -->
+        <h2 align="center" style="padding-top:10px;color:white;">IPL 2021 SCORE PREDICTOR</h2>
+    	<div class="container" style="padding-left:580px;padding-top:60px">
+            <div class="container">
+
+			<!-- Result -->
+			<div class="results">
+                <p class='result-p'> <h2 style="color:white">The final predicted score : <i style="color:black"> {{ minimum_runs }} to {{ maximum_runs }} </i></h2></p>
+			</div>
+
+
+        </div>
+
+
+
+
+        </div>
+    </body>
+</html>
+
