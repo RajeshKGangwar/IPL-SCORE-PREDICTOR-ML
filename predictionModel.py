@@ -90,8 +90,6 @@ RF_model.fit(X_train,y_train)
 rf_score = RF_model.score(X_test,y_test)
 print("<<<<<<<< Random forest regressor accuracy = ",+rf_score)
 
-# Linear Regression Model
-
 
 if(rf_score>dt_score):
     print("<<<<<<< Saving Random forest model to disk >>>>>>>>>")
