@@ -18,14 +18,14 @@
 
 ## Overview
 This is an Elementry App for Predicting IPL Scores using Historical IPL Data. The App has been Designed using Python, Flask and Machine Learning which takes the following inputs:
-• Batting Team. <br>
-• Bowling Team. <br>
-• Venue, Where the match is being Played. <br>
-• Overs: Current Over is required in this field. Any value greater than 5 overs is considered over here. for eg: 7.1. <br>
-• Current Runs of Batting Team. <br>
-• Current Wickets. <br>
-• Runs scored in last 5 overs. <br>
-• Fall of wickets in last 5 overs. <br>
+• __Batting Team__ <br>
+• __Bowling Team__ <br>
+• __Venue__: Where the match is being Played. <br>
+• __Overs__: Current Over is required in this field. Any value greater than 5 overs is considered over here. for eg: 7.1. <br>
+• __Current Runs of Batting Team__ <br>
+• __Current Wickets__ <br>
+• __Runs scored in last 5 overs__ <br>
+• __Fall of wickets in last 5 overs.__ <br>
 
 
 
