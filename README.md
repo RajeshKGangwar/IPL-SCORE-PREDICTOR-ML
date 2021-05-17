@@ -1,4 +1,4 @@
-# IPL 2021 Teams Score Predictor Using Python, Flask and Machine Learning.
+# IPL Teams Score Predictor Using Python, Flask and Machine Learning.
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![numpy](https://img.shields.io/badge/numpy-1.9.2-lightgrey) ![pandas](https://img.shields.io/badge/pandas-0.19-red) ![scikin-learn](https://img.shields.io/badge/scikit--learn-0.18-green)
 
 ## Table of Content
