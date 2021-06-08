@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## Bug / Feature Request
 
-If you find some bug/defect or if you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/RajeshKGangwar/IPL-SCORE-PREDICTOR-ML/issues).
+If you find some bug/defect or if you would like to request a new function, feel free to do so by opening an issue [here](https://github.com/RajeshKGangwar/IPL-SCORE-PREDICTOR-ML/issues).
 
 ## Technologies Used
 
